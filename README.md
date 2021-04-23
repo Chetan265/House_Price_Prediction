@@ -1,4 +1,4 @@
-## Project - California Housing Price Prediction ##
+# Project - California Housing Price Prediction #
 ## Description :
 The US Census Bureau has published California Census Data which has 10 types of metrics such as the population, median income, median housing price, and so on for each block group in California. The dataset also serves as an input for project scoping and tries to specify the functional and nonfunctional requirements for it.
 ##Background of the Problem Statement :##
@@ -19,4 +19,4 @@ Domain : Finance and Housing
   ocean_proximity (numeric - categorical ) : Type of the landscape of the block [ Unique Values : 'NEAR BAY', '<IH OCEAN', 'INLAND', 'NEAR OCEAN', 'ISLAND' ] 
   median_house_value (numeric - int ) : Median of the household prices of all the houses in the block
 
-## Dataset Size : 20640 rows x 10 columns
+ Dataset Size : 20640 rows x 10 columns
